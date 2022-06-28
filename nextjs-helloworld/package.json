@@ -1,6 +1,8 @@
 {
     "scripts": {
-        "dev": "next dev"
+        "start": "node server.js",
+        "build": "next build",
+        "export": "next export"
     },
 "dependencies": {
     "next": "^12.1.6",
