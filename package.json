@@ -1,8 +1,20 @@
 {
-    "scripts": {
-        "start": "node server.js"
-    },
-    "dependencies": {
-        "express": "^4.18.1"
-    }
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelsawicki/Sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelsawicki/Sandbox/issues"
+  },
+  "homepage": "https://github.com/marcelsawicki/Sandbox#readme"
 }
