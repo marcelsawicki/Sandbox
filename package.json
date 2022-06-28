@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcelsawicki/Sandbox/issues"
   },
-  "homepage": "https://github.com/marcelsawicki/Sandbox#readme"
+  "homepage": "https://github.com/marcelsawicki/Sandbox#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
